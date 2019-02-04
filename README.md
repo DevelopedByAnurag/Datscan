@@ -28,7 +28,9 @@
 
 And can also be used for data predictive modeling with the help of some of its modules 
 
-what we mean is what we want our mission is to develop a open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
+what we mean is what we want...
+
+Our mission is to develop a open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
 
 ### Getting Started
 
@@ -64,6 +66,7 @@ Datscan is a free and open-source initiative taken by Mr Anurag batra to make da
 
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
+
 
 ### License
 **Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)

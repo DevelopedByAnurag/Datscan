@@ -1,9 +1,9 @@
 # DATSCAN
 
 
-## DAT => DATA
-## SA  => SCRAPPING AND
-## AN  => analyser 
+ DAT => DATA
+ SA  => SCRAPPING AND
+ AN  => analyser 
 
 And can also be used for data predictive modeling with the help of some of its modules 
 

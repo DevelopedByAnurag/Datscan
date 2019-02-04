@@ -1,8 +1,6 @@
 <h1 align="center">
-  <br>
   <a href="https://github.com/DevelopedByAnurag/"><img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/Logo/datscan.png" alt="Datscan"></a>
 </h1>
-
 <p align="center">  
   <a href="https://docs.python.org/3/download.html">
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
@@ -32,6 +30,20 @@ And can also be used for data predictive modeling with the help of some of its m
 
 what we mean is what we want our mission is to develop a open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
 
+### Getting Started
+
+#### Steps to setup :
+
+1. `git clone https://github.com/DevelopedByAnurag/Datscan`
+2. `cd Datscan`
+3. `python ./setup.py install`
+
+#### Starting Stardox :
+
+1. `cd Datscan/src`
+2. `python3 Datscan.py`
+
+Example Usage : `python3 ./Datscan.py
 
 ### FAQ
 
@@ -47,3 +59,11 @@ yes, it's a open-source initiative and you you are free to develop any module fo
 #### what I get developing Datscan?? 
 Datscan is a free and open-source initiative taken by Mr Anurag batra to make data analysis and prections possible for everyone and provide the reach of data analysis at each step. so we can moneytry benefits to you but can proudly provide you credits for that in terms of name and you can also add this proudly to your CV.
 
+
+
+
+### Contributing
+Any and all contributions, issues, features and tips are welcome.
+
+### License
+**Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)

@@ -1,0 +1,7 @@
+pandas
+numpy
+beautifulsoup4
+matplotlib
+nltk
+requests
+json

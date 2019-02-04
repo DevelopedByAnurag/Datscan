@@ -1,3 +1,24 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/DevelopedByAnurag/"><img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/Logo/datscan.png" alt="Datscan"></a>
+</h1>
+
+<p align="center">  
+  <a href="https://docs.python.org/3/download.html">
+    <img src="https://img.shields.io/badge/Python-3.x-green.svg">
+  </a>
+  <a href="https://github.com/DevelopedByAnurag/Datscan/">
+    <img src="https://img.shields.io/badge/Version-v10.0.0%20(stable)-blue.svg">
+  </a>
+  <a href="https://github.com/DevelopedByAnurag/Datscan/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
+  </a> 
+  <a href="https://github.com/DevelopedByAnurag/Datscan/">
+    <img src="https://img.shields.io/badge/OS-Linux-orange.svg">
+  </a>
+</p>
+
+
 # DATSCAN
 
 

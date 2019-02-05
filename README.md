@@ -40,7 +40,7 @@ Our mission is to develop a open-source platform to provide the power of data an
 2. `cd Datscan`
 3. `python ./setup.py install`
 
-#### Starting Stardox :
+#### Starting Datscan :
 
 1. `cd Datscan/src`
 2. `python3 Datscan.py`

@@ -61,7 +61,8 @@ yes, it's a open-source initiative and you you are free to develop any module fo
 #### what I get developing Datscan?? 
 Datscan is a free and open-source initiative taken by Mr Anurag batra to make data analysis and prections possible for everyone and provide the reach of data analysis at each step. so we can moneytry benefits to you but can proudly provide you credits for that in terms of name and you can also add this proudly to your CV.
 
-
+#### Which platform does it support ??
+currently Datscan is just being developed Linux but will soon support other platforms  too... 
 
 
 ### Contributing

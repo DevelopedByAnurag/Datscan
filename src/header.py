@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# In[110]:
-
-
-def logo() :
+def HE4D3R():
     print(''' \033[34m \033[1m
     \033[34mDDDDDDDDDDDDD          \033[31m TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
     \033[34m   D        DD         \033[31m           TTT                                                             \033[31m TT 
@@ -21,9 +15,4 @@ def logo() :
                \033[32m AA                  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA''')
     print("\033[35m \n \n                                     An Initiative by Anurag batra \033[97m")  
 
-
-# In[112]:
-
-
-header()
-
+HE4D3R()

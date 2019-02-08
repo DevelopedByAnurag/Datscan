@@ -19,11 +19,10 @@
 
 ## About  [DATSCAN](https://github.com/DevelopedByAnurag)
 
+### What Actually DatScanner Means ??
 
- DAT => DATA
- 
- SA  => SCRAPPING AND
- 
+ DAT => DATA                      
+ SA  => SCRAPPING AND                
  AN  => analyser 
 
 And can also be used for data predictive modeling with the help of some of its modules 
@@ -46,6 +45,9 @@ Our mission is to develop a open-source platform to provide the power of data an
 2. `python3 Datscan.py`
 
 Example Usage : `python3 ./Datscan.py
+
+## Guide to create a module for DatScan ..
+Here is link to step by step guide to it ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
 
 ### FAQ
 

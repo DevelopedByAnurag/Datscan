@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/">
-    <img src="https://img.shields.io/badge/Version-v1.0.0 (UnStable)-blue.svg">
+    <img src="https://img.shields.io/badge/Version-v1.0.0 (UnStable beta)-blue.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
@@ -17,7 +17,7 @@
 </p>
 
 
-## About  [DATSCAN](https://github.com/DevelopedByAnurag)
+## About  [DATSCAN](https://github.com/DevelopedByAnurag) (BETA Version)
 
 ### What Actually DatScanner Means ??
 

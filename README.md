@@ -73,3 +73,9 @@ Any and all contributions, issues, features and tips are welcome.
 
 ### License
 **Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+## ScreenShots
+
+<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/1.png" alt="datscan ScreenShot">
+<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/2.png" alt="datscan ScreenShot">
+<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/3.png" alt="datscan ScreenShot">

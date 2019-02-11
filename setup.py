@@ -10,7 +10,7 @@ with open('requirements.txt', 'r') as f:
     requirements = [line.strip() for line in f.readlines()]
 
 setup(
-   name='DatScAn',
+   name='DatScan',
    version='1.0.0',
    description="An automated data scraper and  Analyser tool",
    long_description=long_description,

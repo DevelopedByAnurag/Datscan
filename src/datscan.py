@@ -151,12 +151,11 @@ def F3CHING_M0DULE(T3MP):
             if T3MP1 == "1":
                 F3CHING_M0DULE(T3MP)
             elif T3MP1 == "2":
-                D474_S37UP(T3MP)
                 M0DUL3_C4LL3R(T3MP ,T3MP0)
             elif T3MP1 == "3":
                 R34D3R('D474S37.txt')
                 D47A_M4N4G3R(T3MP)
-                D474_S37UP(T3MP)
+                D474_S37UP(T3MP0)
                 M0DUL3_C4LL3R(T3MP ,T3MP0)
             else:
                 print("Invalid Choice")

@@ -67,6 +67,14 @@ Datscan is a free and open-source initiative taken by Mr Anurag batra to make da
 currently Datscan is just being developed Linux but will soon support other platforms  too... 
 
 
+## Future Aspects
+
+1. Add More and More Modules
+2. Add windows Support
+3. Add graphical Support Using canvas
+4. Add Support for better error Handling
+
+
 ### Contributing
 Any and all contributions, issues, features and tips are welcome.
 
@@ -74,7 +82,7 @@ Any and all contributions, issues, features and tips are welcome.
 ### License
 **Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-## ScreenShots
+### ScreenShots
 
 <img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/1.png" alt="datscan ScreenShot">
 <img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/2.png" alt="datscan ScreenShot">

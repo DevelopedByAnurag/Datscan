@@ -6,3 +6,5 @@ nltk
 requests
 json
 os
+tweepy
+twitterscraper

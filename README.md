@@ -31,6 +31,12 @@ what we mean is what we want...
 
 Our mission is to develop a open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
 
+### In simple terms 
+it is a CMS for data science with the mission to provide all the data analysis solutions in reach to everyone and anyone for free it has the target to able to do 95% task that we can do with help of data analysis by the end of 2k19. As being such a big project and solving such a big problem of providing solutions of data science in reach of everyone with the need of coding or even without the need of any programming language.It is a task that can't be done by anyone so here we are going to use the appoch used by the most used CMS (WORDPRESS) where all the task can be done with the help of modules which can even be developed by public and for both free and paid versions can be built as per the developers(module developer) wish. as being in beta stage we are accepting just limited entries so for details you can contact datscan@myedukit.com
+
+## NOTE
+before getting started just wait one ediot changed the code and hence it is not working till the time we re-upload the code and make rules for editing it will remain un-functional 😨😓
+
 ### Getting Started
 
 #### Steps to setup :
@@ -54,7 +60,7 @@ Here is link to step by step guide to it ... [Click Here](https://github.com/Dev
 #### what is Datscan ??
 An automated data scraper and  Analyser that can takle any type of data set  using its various modules and can process that data as required for prediction sentimental analysis and much more 
 
-#### On what basics it get data from ?? 
+#### On what basics it get data from ??
 It is scrapes, crawls or fetch data using official api's as programmed in the module selected by you and the data is then converted into the standard format according to the software and then further sent to analying modules 
 
 #### Can I create a module for Datscan ??

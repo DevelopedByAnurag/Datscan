@@ -95,7 +95,7 @@ its functinality can be furher increased using <b> 3rd party plugins feature is 
 - [ ] Add Login System to keep user data same at all devices (comunnity Support for that :+1: )
 
 ### Can I create a module for Datscan ??
-yes, it's a open-source initiative and you you are free to develop any module for it not only modules you even free to work on developing the core of Datscan and making it a better data analyisng and perfection software available as free and open-source for all the developers to use 
+yes, it's a open-source initiative and you are free to develop any module for it not only modules you even free to work on developing the core of Datscan and making it a better data analyisng and perfection software available as free and open-source for all the developers to use. 
 
 ### How can i pay back you for Datscan?? 
 Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientist. It is just a gift from my side to community.To connect with me on insta at [@Simply_a_noob](https://www.instagram.com/Simply_a_noob/)

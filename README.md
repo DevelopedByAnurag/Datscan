@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/">
-    <img src="https://img.shields.io/badge/Version-v1.0.0 (UnStable beta)-blue.svg">
+    <img src="https://img.shields.io/badge/Version-v1.4.2 (UnStable beta)-blue.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
@@ -42,8 +42,6 @@ before getting started just wait one ediot changed the code and hence it is not 
 #### Steps to setup :
 
 1. `git clone https://github.com/DevelopedByAnurag/Datscan`
-2. `cd Datscan`
-3. `python ./setup.py install`
 
 #### Starting Datscan :
 
@@ -52,43 +50,64 @@ before getting started just wait one ediot changed the code and hence it is not 
 
 Example Usage : `python3 ./Datscan.py
 
-## Guide to create a module for DatScan ..
-Here is link to step by step guide to it ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
 
-### FAQ
-
-#### what is Datscan ??
+## FAQ
+### what is Datscan ??
 An automated data scraper and  Analyser that can takle any type of data set  using its various modules and can process that data as required for prediction sentimental analysis and much more 
 
-#### On what basics it get data from ??
-It is scrapes, crawls or fetch data using official api's as programmed in the module selected by you and the data is then converted into the standard format according to the software and then further sent to analying modules 
+### What All it can Do ??
+As you know DatScan works on the basics of modules using by default modules it can do a lot of work like:
+1. web-Scrapping
+    1. twitter
+    2. instagram
+2. text pre-processing
+    1. tokenization
+    2. stop word removal 
+    3. lemmatizing
+    4. stemming
+    5. text translation
+    6. hash tag removal
+    7. spell correction
+3. sentimental analysis
+    1. nltk
+    2. textblob
+    3. gensim
+    4. spacy
+    5. patern
+    6. best of all
+ 
+its functinality can be furher increased using <b> 3rd party plugins feature is comming soon </b>
 
-#### Can I create a module for Datscan ??
+### Which operating systems do it support supported ??
+ - [X] linux
+ - [X] mac
+ - [ ] windows
+
+## What are the future aspects of the Project ??
+- [X] Add Support for better error Handling
+- [X] Add automatic installation
+- [ ] Add update System
+- [ ] Add windows Support
+- [ ] Add graphical Support Using canvas
+- [ ] Add More and More Modules (never ending aspect :heart: )
+- [ ] Add Login System to keep user data same at all devices (comunnity Support for that :+1: )
+
+### Can I create a module for Datscan ??
 yes, it's a open-source initiative and you you are free to develop any module for it not only modules you even free to work on developing the core of Datscan and making it a better data analyisng and perfection software available as free and open-source for all the developers to use 
 
-#### what I get developing Datscan?? 
-Datscan is a free and open-source initiative taken by Mr Anurag batra to make data analysis and prections possible for everyone and provide the reach of data analysis at each step. so we can moneytry benefits to you but can proudly provide you credits for that in terms of name and you can also add this proudly to your CV.
+### How can i pay back you for Datscan?? 
+Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientist. It is just a gift from my side to community.To connect with me on insta at [@Simply_a_noob](https://www.instagram.com/Simply_a_noob/)
 
-#### Which platform does it support ??
-currently Datscan is just being developed Linux but will soon support other platforms  too... 
-
-
-## Future Aspects
-
-1. Add More and More Modules
-2. Add windows Support
-3. Add graphical Support Using canvas
-4. Add Support for better error Handling
-
-
-### Contributing
+## Contributing
 Any and all contributions, issues, features and tips are welcome.
 
+Here is link to step by step guide to create module for DatScan ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
 
-### License
+
+## License
 **Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-### ScreenShots
+## ScreenShots
 
 <img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/1.png" alt="datscan ScreenShot">
 <img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/2.png" alt="datscan ScreenShot">

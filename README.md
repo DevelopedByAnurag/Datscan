@@ -87,6 +87,7 @@ its functinality can be furher increased using <b> 3rd party plugins feature is 
 - [X] Add Support for better error Handling
 - [X] Add automatic installation
 - [ ] Add update System
+- [ ] Library for third party Modules
 - [ ] Add windows Support
 - [ ] Add graphical Support Using canvas
 - [ ] Add More and More Modules (never ending aspect :heart: )

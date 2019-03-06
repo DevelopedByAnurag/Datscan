@@ -84,6 +84,9 @@ its functinality can be furher increased using <b> 3rd party plugins feature is 
 ## What are the future aspects of the Project ??
 - [X] Add Support for better error Handling
 - [X] Add automatic installation
+- [ ] Add Image Visualization for better Understanding
+- [ ] Add Caption over image Microsoft coco for image to text Conversion
+- [ ] Add Real Machine Learning Modules Like regressions
 - [ ] Add update System
 - [ ] Library for third party Modules
 - [ ] Add windows Support

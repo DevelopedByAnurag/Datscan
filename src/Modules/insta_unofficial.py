@@ -5,19 +5,15 @@
 
 
 def Runner(S4V3):
-    import os
-    import pandas as pd
-    import json
-    import requests
-    import csv
-    import time
-    from datetime import datetime
-    from bs4 import BeautifulSoup
-    import re
-    import random
-    
-    temp = input("Enter the tags you want to scrape and diffrencitate with help of spaces")
-    temp0 = temp.split(" ")
+    L04D_M0DUL3("import pandas as pd")
+    L04D_M0DUL3("import json")
+    L04D_M0DUL3("import requests")
+    L04D_M0DUL3("import time")
+    L04D_M0DUL3("from datetime import datetime")
+    L04D_M0DUL3("from bs4 import BeautifulSoup")
+    L04D_M0DUL3("import re")
+    L04D_M0DUL3("import random")
+    temp0 = G37_1NPUT()
     BURL = 'https://www.instagram.com/accounts/login/'
     LURL = BURL + 'ajax/'
     headers_list = [
@@ -37,17 +33,14 @@ def Runner(S4V3):
     USERNAME = input("Enter Your insta username (try to use fake account)")
     PASSWD =  input("Enter Your insta Password")
     AGENT = headers_list[random.randrange(0,4)]
-    
     session = requests.Session()
     session.headers = {'User-Agent': AGENT}
     session.headers.update({'Referer': BURL})    
     req = session.get(BURL)
     soup = BeautifulSoup(req.content, 'html.parser') 
     body = soup.find('body')
-
     pattern = re.compile('window._sharedData')
     script = body.find("script", text=pattern)
-
     script = script.get_text().replace('window._sharedData = ', '')[:-1]
     data = json.loads(script)
 
@@ -77,12 +70,10 @@ def Runner(S4V3):
         if comment > 1:
             k = post['node']['shortcode']
             link = "https://www.instagram.com/p/"+k+"/"
-            print(str(comment)+"  :   "+str(k)+"  :   "+str(link))
-        t = post['node']['taken_at_timestamp']
+            t = post['node']['taken_at_timestamp']
         tex = post['node']['edge_media_to_caption']['edges'][0]['node']['text']
         tim = time.ctime(t)
         id = post['node']['owner']['id']
-        print('likes : '+str(likes)+"; \t \t Comments : "+str(comment)+"; \t \t Post ID : "+str(id)+"; \t \t Timestamp : "+str(tim)+";\n Image Link : "+str(image_src)+"\n \n \t\t\t\t\t\tTEXT\n"+str(tex)+"\n\n\n")
         row = [likes, comment, id, tim, image_src ]
         file = ST4ND4R7IS3_CSV(S4V3)
         with open(file, 'a') as csvFile:

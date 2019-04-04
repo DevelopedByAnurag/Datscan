@@ -5,12 +5,10 @@
 
 
 def RUNN3R(S4V3):
-    
-    import twitterscraper
-    import os
-    import json
-    T3MP = input("Enter the tags you want to scrape and diffrencitate with help of spaces")
-    T3MP0 = T3MP.split(" ")
+    L04D_M0DUL3("import twitterscraper")
+    L04D_M0DUL3("import os")
+    L04D_M0DUL3("import json")
+    T3MP0 = G37_1NPUT()
     for T3MP1 in T3MP0:
         os.system("twitterscraper "+T3MP1.strip()+" --output="+S4V3+"/"+T3MP1.strip()+".json")
         file = standartise_tsv(S4V3)

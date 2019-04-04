@@ -1,14 +1,12 @@
 
 # coding: utf-8
 
-# In[3]:
+# In[1]:
 
 
 def RUNN3R(S4V3):
-    
-    import tweepy
-    import csv
-    import pandas as pd
+    L04D_M0DUL3("import tweepy")
+    L04D_M0DUL3("import pandas as pd")
     ####input your credentials here
     C0NSUM3R_K3Y = input("Enter Consumer Key: ")
     C0NSUM3R_S3CR37 = input("Enter Consumer Secret Key: ")
@@ -21,8 +19,7 @@ def RUNN3R(S4V3):
     file = ST4ND4R7IS3_CSV(S4V3)
     csvFile = open(file, 'a')
     #Use csv Writer
-    temp = input("Enter the tags you want to scrape and diffrencitate with help of spaces")
-    temp0 = temp.split(" ")
+    temp0 = G37_1NPUT()
     for temp1 in temp0:
         csvWriter = csv.writer(csvFile)
         for tweet in tweepy.Cursor(api.search,q=temp1,count=10, lang="en", since="2001-04-03").items():

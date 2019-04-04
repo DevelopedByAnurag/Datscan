@@ -32,8 +32,6 @@ It is a CMS for data Analysis with the mission to provide all the data analysis 
 
 Our mission is to develop a open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
 
-## NOTE
-Before getting started just wait one ediot changed the code and hence it is not working till the time we re-upload the code and make rules for editing it will remain un-functional 😨😓
 
 ### Getting Started
 
@@ -98,7 +96,10 @@ its functinality can be furher increased using <b> 3rd party plugins feature is 
 yes, it's a open-source initiative and you are free to develop any module for it not only modules you even free to work on developing the core of Datscan and making it a better data analyisng and perfection software available as free and open-source for all the developers to use. 
 
 ### How can i pay back you for Datscan?? 
-Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientist. It is just a gift from my side to community.To connect with me on insta at [@Simply_a_noob](https://www.instagram.com/Simply_a_noob/)
+Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientist. It is just a gift from my side to community.
+
+### How can I connect to the Developers ??
+you can connect with me on insta at [@Simply_a_noob](https://www.instagram.com/Simply_a_noob/) or even leave a message at [Datscan](https://datscan.myedukit.com/contact.php)
 
 ## Contributing
 Any and all contributions, issues, features and tips are welcome.

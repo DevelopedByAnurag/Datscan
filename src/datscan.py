@@ -189,6 +189,7 @@ def M3NU():
     PR1NT_T3XT("\t 1. Get New Data")
     PR1NT_T3XT("\t 2. Process Existing Data")
     PR1NT_T3XT("\t 3. Install/Uninstall Module")
+    PR1NT_T3XT("\t 0. Exit")
     #dis={1:["Get New Data"],2:["Get New Data2"]}
     ENTRY_0PTI0N = T4KE_1NPUT("Enter Your Choice:- ")
     cls()
@@ -224,6 +225,10 @@ def M3NU2():
         OPTI0N = T4KE_1NPUT("Enter your Choice:- ")
         cls()
         M0DULE_M3NU()
+
+    elif ENTRY_0PTI0N =="0":
+        cls()
+        exit()
 
     else:
         ERR0R("Invalid choice try again \n")

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/DevelopedByAnurag/"><img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/Logo/datscan.png" alt="Datscan"></a>
+  <a href="https://github.com/DevelopedByAnurag/"><img src="https://developedbyanurag.github.io/Hosted-images/datscan/DatScan.png" alt="Datscan"></a>
 </h1>
 <p align="center">  
   <a href="https://docs.python.org/3/download.html">
@@ -112,6 +112,6 @@ Here is link to step by step guide to create module for DatScan ... [Click Here]
 
 ## ScreenShots
 
-<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/1.png" alt="datscan ScreenShot">
-<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/2.png" alt="datscan ScreenShot">
-<img src="https://raw.githubusercontent.com/DevelopedByAnurag/Datscan/master/screenshots/3.png" alt="datscan ScreenShot">
+<img src="https://developedbyanurag.github.io/Hosted-images/datscan/1.png" alt="datscan ScreenShot">
+<img src="https://developedbyanurag.github.io/Hosted-images/datscan/2.png" alt="datscan ScreenShot">
+<img src="https://developedbyanurag.github.io/Hosted-images/datscan/3.png" alt="datscan ScreenShot">

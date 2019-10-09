@@ -7,7 +7,6 @@ matplotlib
 numpy
 pandas
 TextBlob
-nltk
 SciKit-Learn
 spaCy
 Gensim

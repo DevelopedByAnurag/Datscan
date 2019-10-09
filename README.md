@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/">
-    <img src="https://img.shields.io/badge/Version-v1.4.2 (UnStable beta)-blue.svg">
+    <img src="https://img.shields.io/badge/Version-v1.4.5 (UnStable beta)-blue.svg">
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">

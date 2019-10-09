@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 ## About  [DATSCAN](https://github.com/DevelopedByAnurag) (BETA Version)
 
 ### What DatScanner Means ??
@@ -105,7 +104,6 @@ you can connect with me on Instagram at [@Simply_a_noob](https://www.instagram.c
 Any and all contributions, issues, features and tips are welcome.
 
 Here is a link to step by step guide to create a module for DatScan ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
-
 
 ## License
 **Datscan** is licence under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html)

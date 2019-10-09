@@ -106,7 +106,7 @@ Any and all contributions, issues, features and tips are welcome.
 Here is a link to step by step guide to create a module for DatScan ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
 
 ## License
-**Datscan** is licenced under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) And you freely cotribue to this repository.
+**Datscan** is licenced under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) And you freely contribue to this repository.
 
 ## ScreenShots
 

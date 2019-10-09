@@ -1,6 +1,5 @@
 beautifulsoup4
 Scrapy
-selenium
 requests
 tweepy
 twitterscraper

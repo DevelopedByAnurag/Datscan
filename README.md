@@ -1,5 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/DevelopedByAnurag/"><img src="https://developedbyanurag.github.io/Hosted-images/datscan/DatScan.png" alt="Datscan"></a></h1>
+  
 <p align="center">  
   <a href="https://docs.python.org/3/download.html">
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">

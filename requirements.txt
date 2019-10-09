@@ -10,5 +10,4 @@ TextBlob
 SciKit-Learn
 spaCy
 Gensim
-stanford-corenlp
 Keras

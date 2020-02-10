@@ -43,7 +43,7 @@ Our mission is to develop an open-source platform to provide the power of data a
 1. `cd Datscan/src`
 2. `python3 Datscan.py`
 
-Example Usage : `python3 Datscan.py`
+Example Usage : `python3 ./Datscan.py`
 
 
 ## FAQ

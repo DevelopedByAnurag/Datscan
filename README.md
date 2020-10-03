@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/DevelopedByAnurag/"><img src="https://git-images.myedukit.com/datscan/DatScan.png" alt="Datscan"></a></h1>
-  
-<p align="center">  
+
+<p align="center">
   <a href="https://docs.python.org/3/download.html">
     <img src="https://img.shields.io/badge/Python-3.x-green.svg">
   </a>
@@ -10,7 +10,7 @@
   </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-orange.svg">
-  </a> 
+  </a>
   <a href="https://github.com/DevelopedByAnurag/Datscan/">
     <img src="https://img.shields.io/badge/OS-Linux-orange.svg">
   </a>
@@ -20,8 +20,8 @@
 
 ### What DatScanner Means ??
 
-DAT => DATA  
- SC => SCRAPPING AND  
+DAT => DATA
+ SC => SCRAPPING AND
  AN => ANALYSER
 
 And can also be used for data predictive modelling with the help of some of its

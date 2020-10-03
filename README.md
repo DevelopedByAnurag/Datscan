@@ -22,7 +22,7 @@
 
  DAT => DATA                      
  SC  => SCRAPPING AND                
- AN  => analyser 
+ AN  => ANALYSER 
 
 And can also be used for data predictive modelling with the help of some of its modules 
 

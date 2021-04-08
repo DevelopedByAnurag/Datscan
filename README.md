@@ -27,7 +27,7 @@
 And can also be used for data predictive modelling with the help of some of its modules 
 
 ### In simple terms 
-It is a CMS for data Analysis with the mission to provide all the data analysis solutions in reach to everyone and anyone for free it has the target to able to do 95% task that we can do with help of data analysis by the end of 2k19. As being such a big project and solving such a big problem of providing solutions for data science in reach of everyone with the need for coding or even without the need of any programming language. It is a task that can't be done by anyone so here we are going to use the approach used by the most used CMS (WORDPRESS) where all the task can be done with the help of modules which can even be developed by public and for both free and paid versions can be built as per the developers(module developer) wish. as being in the beta stage we are accepting just limited entries so for details you can contact datscan@myedukit.com
+It is a CMS for data Analysis with the mission to provide all the data analysis solutions in reach to everyone and anyone for free it has the target to able to do 95% tasks that we can do with help of data analysis by the end of 2k19. As being such a big project and solving such a big problem of providing solutions for data science in reach of everyone with the need for coding or even without the need of any programming language. It is a task that can't be done by anyone so here we are going to use the approach used by the most used CMS (WORDPRESS) where all the task can be done with the help of modules which can even be developed by public and for both free and paid versions can be built as per the developers(module developer) wish. as being in the beta stage we are accepting just limited entries so for details you can contact datscan@myedukit.com
 
 Our mission is to develop an open-source platform to provide the power of data analysis and machine learning to everyone around the globe 🌐 for free.
 
@@ -68,12 +68,12 @@ As you know DatScan works based on modules using by default modules it can do a 
     2. textblob
     3. gensim
     4. spacy
-    5. patern
+    5. pattern
     6. best of all
  
 its functionality can be further increased using <b> 3rd party plugins feature is coming soon </b>
 
-### Which operating systems do it support supported ??
+### Which operating systems support it??
  - [X] linux
  - [X] mac
  - [ ] windows
@@ -95,7 +95,7 @@ its functionality can be further increased using <b> 3rd party plugins feature i
 yes, it's an open-source initiative and you are free to develop any module for it not only modules you even free to work on developing the core of Datscan and making it a better data analysing and perfection software available as free and open-source for all the developers to use. 
 
 ### How can I pay back you for Datscan?? 
-Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientist. It is just a gift from my side to the community.
+Datscan is a free and open-source initiative taken by me to provide the reach of Data Science to everyone even non-coders and not limiting it to data scientists. It is just a gift from my side to the community.
 
 ### How can I connect to the Developers ??
 you can connect with me on Instagram at [@Simply_a_noob](https://www.instagram.com/Simply_a_noob/) or even leave a message at [Datscan](https://datscan.myedukit.com/contact.php)
@@ -106,7 +106,7 @@ Any and all contributions, issues, features and tips are welcome.
 Here is a link to step by step guide to create a module for DatScan ... [Click Here](https://github.com/DevelopedByAnurag/Datscan/blob/master/Docs/Readme.md)
 
 ## License
-**Datscan** is licenced under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) And you freely contribue to this repository.
+**Datscan** is licensed under [GPL v3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html) And you freely contribute to this repository.
 
 ## ScreenShots
 
